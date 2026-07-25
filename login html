@@ -6,6 +6,20 @@
     <title>Login Page</title>
 </head>
 <body>
+    <head>
+        <header>Login</header>
+        <main>
+            <h2>Student Login</h2>
+            <from>
+                <label>Email</label><br>
+                <input type="email" placeholder="Enter yor Email"><br>
+                <label>Password</label><br>
+                <input type="password" placeholder="Enter your Password"><br>
+                <input type="submit" Value="Login"><br>
+
+            </from>
+        </main>
+    </head>
     <header>
         Home <br>
         <h1>Login NRIIT Learning Mangement</h1
